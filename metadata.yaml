@@ -1,0 +1,36 @@
+_repo: Chile-today-and-tomorrow_74531
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Joyce, L. E. Elliott (Lilian Elwyn Elliott)
+    aliases:
+    - Elliott, L. E. (Lilian Elwyn)
+    - Elliott, Lilian
+    - Joyce, Lilian Elwyn Elliott
+    - Elliott, Lilian Ellwyn
+    - Elliott, Lilian Elwyn
+    birthdate: 1874
+    deathdate: 1963
+    gutenberg_agent_id: '57219'
+    url: http://www.gutenberg.org/2009/agents/57219
+    wikipedia: https://en.wikipedia.org/wiki/Lilian_Elliott
+description: ''
+gutenberg_issued: '2024-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74531'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t5w66jp24&view=1up&seq=10&skin=2021
+pgterms:marc905: 20220909164322elliott
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Richard Tonsing and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bThe Macmillan Company, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Chile today and tomorrow
+url: http://www.gutenberg.org/ebooks/74531
