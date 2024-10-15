@@ -1,5 +1,8 @@
 _repo: Chile-today-and-tomorrow_74531
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74531-h/images/cover.jpg
 creator:
   author:
     agent_name: Joyce, L. E. Elliott (Lilian Elwyn Elliott)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57219
     wikipedia: https://en.wikipedia.org/wiki/Lilian_Elliott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74531#Chile-today-and-tomorrow
 gutenberg_issued: '2024-10-06'
 gutenberg_type: Text
 identifiers:
